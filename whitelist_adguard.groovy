@@ -428,3 +428,6 @@
 @@||fortiswitch.com^$important
 @@||fortimailcloud.com^$important
 @@||forticlient.com^$important
+@@||apple.com^$important
+@@||cloudfront.net^$important
+@@||icloud.com^$important
