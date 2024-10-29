@@ -477,3 +477,17 @@
 @@||speed.ui.com^$important
 @@||nms.ui.com^$important
 @@||telemetry.ubnt.com^$important
+@@||elastic.co^$important
+@@||cloud.elastic.co^$important
+@@||found.no^$important
+@@||search-*.es.amazonaws.com^$important
+@@||*.search.windows.net^$important
+@@||*.azure.elastic-cloud.com^$important
+@@||cloud.es.io^$important
+@@||es.io^$important
+@@||apm.elastic-cloud.com^$important
+@@||*.elastic-cloud.com^$important
+@@||elastic-cloud.com^$important
+@@||elasticsearch.com^$important
+@@||eck.elastic.co^$important
+@@||kibana.elastic-cloud.com^$important
