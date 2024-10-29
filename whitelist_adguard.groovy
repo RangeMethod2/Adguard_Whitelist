@@ -503,10 +503,7 @@
 @@||samsungotn.net^$important
 @@||cdn.samsungcloudsolution.com^$important
 @@||openapi.samsung.com^$important
-@@||r1.samsungcloudsolution.com^$important
-@@||r2.samsungcloudsolution.com^$important
-@@||r3.samsungcloudsolution.com^$important
-@@||res.samsungcloudsolution.com^$important
+@@||samsungcloudsolution.com^$important
 @@||samsungpay.com^$important
 @@||api.samsungpay.com^$important
 @@||log-config.samsungacr.com^$important
