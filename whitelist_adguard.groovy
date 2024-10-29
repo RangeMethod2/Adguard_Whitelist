@@ -1,6 +1,8 @@
 @@||fonts.gstatic.com^$important
 @@||extccp.com^$important
 @@||microsoft.com^$important
+@@||office.com^$important
+@@||office.net^$important
 @@||battle.net^$important
 @@||steam.com^$important
 @@||clients4.google.com^$important
@@ -253,4 +255,6 @@
 @@||media.whatsapp.net^$important
 @@||cdn.whatsapp.net^$important
 @@||web.whatsapp.com^$important
-
+@@||instagram.com^$important
+@@||cdninstagram.com^$important
+@@||fbcdn.net^$important
