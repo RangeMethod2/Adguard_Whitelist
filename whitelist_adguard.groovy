@@ -127,7 +127,7 @@
 @@||b-api.facebook.com^$important
 @@||fb.me^$important
 @@||bigzipfiles.facebook.com^$important
-@@||l.facebook.com^$important
+@@||facebook.com^$important
 @@||www.facebook.com^$important
 @@||scontent-atl3-1.xx.fbcdn.net^$important
 @@||static.xx.fbcdn.net^$important
